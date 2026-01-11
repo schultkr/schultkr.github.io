@@ -7,4 +7,3 @@ venue: "Zentrales Deutsches Doktorandenprogramm in den Wirtschaftswissenschaften
 date: 2024-01-01
 location: "Deutschland"
 ---
-[cite_start]Kurs für Doktoranden[cite: 90, 91].
