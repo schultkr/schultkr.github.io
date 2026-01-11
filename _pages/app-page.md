@@ -11,7 +11,7 @@ Welcome to my interactive research assistant. You can use this tool to ask quest
 
 <div class="responsive-container">
   <iframe 
-    src="[AKfycbwvhWvodZ_ZG9s_2R6VWh0R4tvYycB2jNdNORsJ4-s_zbpfPjk-NEjo2tatrspZONv6aQ](https://script.google.com/macros/s/AKfycbwvhWvodZ_ZG9s_2R6VWh0R4tvYycB2jNdNORsJ4-s_zbpfPjk-NEjo2tatrspZONv6aQ/exec)" 
+    src="https://script.google.com/macros/s/AKfycbyuJvzPZjoUFaJg2SbAqkX71IfxsYzWhQEtS64TPC7S1xwe2VVtYh9QfvmM_TpCHjuzrQ/exec" 
     width="100%" 
     height="600px" 
     frameborder="0" 
