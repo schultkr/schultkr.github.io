@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "Christoph_Schult.jpg" # Ensure you have an image with this name in your /images folder
+  name             : "Christoph Schult"
+  pronouns         : # You can add these if you wish, e.g., "he/him"
+  bio              : "Postdoctoral researcher focusing on macroeconomics, forecasting, energy markets, and climate change."
+  location         : "Halle (Saale), Germany"
+  employer         : "Halle Institute for Economic Research (IWH)"
+  uri              : "https://sites.google.com/view/christophschult/home"
+  email            : "Christoph.Schult@iwh-halle.de"
 
   # Academic websites
   academia         : # URL
