@@ -13,7 +13,7 @@ redirect_from:
 * **Ph.D. (Dr. rer. pol.) in Economics**, Martin Luther University Halle-Wittenberg, 2021
 * **M.Sc. Economics**, Humboldt University of Berlin, 2015
 * **B.Sc. Economics**, Martin Luther University Halle-Wittenberg, 2013
-
+* 
 ## Work Experience
 * **Postdoctoral Researcher**, Halle Institute for Economic Research (IWH), 2021–Present
 * **Doctoral Researcher**, Halle Institute for Economic Research (IWH), 2016–2021
@@ -31,7 +31,6 @@ redirect_from:
 ## Skills
 * **Programming Languages (Advanced)**: MATLAB, R, Python
 * **Programming Languages (Basic)**: Stata, SQL, VBA
-* **Research Interests**: Dynamic Macroeconomics, Environmental Macroeconomics, Energy Markets, Forecasting
 
 ## Publications
 ### Journals
@@ -41,7 +40,7 @@ redirect_from:
 * **Power Generation and Structural Change: Quantifying Economic Effects of the Coal Phase-Out in Germany** (with Katja Heinisch and Oliver Holtemöller), *Energy Economics* 95, 2021
 * **Coal Phase-Out in Germany - Implications and Policies for Affected Regions** (with Pao-Yu Oei et al.), *Energy - The International Journal* 196, 2020
 * **Expectation Formation, Financial Frictions, and Forecasting Performance of DSGE Models** (with Oliver Holtemöller), *Historical Social Research* 44(2), 2019
-* **On the pension policy plans in the 2018 coalition agreement...** (with Oliver Holtemöller and Götz Zeddies), *Zeitschrift für Wirtschaftspolitik* 67(3), 2018
+* **Zu den rentenpolitischen Plänen im Koalitionsvertrag 2018 von CDU, CSU und SPD: Konsequenzen, Finanzierungsoptionen und Reformbedarf** (with Oliver Holtemöller and Götz Zeddies), *Zeitschrift für Wirtschaftspolitik* 67(3), 2018
 
 ### Discussion Papers
 * **Climate Change Economics in Vietnam: Redefining Economic Impact**, IWH Discussion Paper No. 15/2025
