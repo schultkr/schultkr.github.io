@@ -1,11 +1,9 @@
 ---
-title: "Lehrvertretung für die Lehrveranstaltung 'Makroökonomik'"
+title: "Interim Professorship for the 'Macroeconomics' course"
 collection: teaching
-type: "Lehrvertretung"
-permalink: /teaching/2025-makro-leipzig
-venue: "Universität Leipzig"
+type: "Interim Professorship"
+permalink: /teaching/2025-macro-leipzig
+venue: "University of Leipzig"
 date: 2025-10-01
-location: "Leipzig, Deutschland"
+location: "Leipzig, Germany"
 ---
-
-Wintersemester 2025/2026.
