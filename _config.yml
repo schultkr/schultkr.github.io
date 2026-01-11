@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "Christoph_Schult.jpg" # Ensure you have an image with this name in your /images folder
   name             : "Christoph Schult"
-  bio              : "Postdoctoral researcher focusing on macroeconomics, forecasting, energy markets, and climate change. '<a href="https://www.iwh-halle.de/ueber-das-iwh/team/detail/christoph-schult">(IWH website)</a>'"
+  bio              : "Postdoctoral researcher focusing on macroeconomics, forecasting, energy markets, and climate change. <a href="https://www.iwh-halle.de/ueber-das-iwh/team/detail/christoph-schult">(IWH website)</a>"
   location         : "Halle (Saale), Germany"
   employer         : "Halle Institute for Economic Research"
   uri              : "https://schultkr.github.io/"
