@@ -25,6 +25,9 @@ main:
     
   - title: "CV"
     url: /cv/
+  
+  - title: "Chat Assisstant"
+    url: /app-page/
     
   # - title: "CV"
   #   url: /cv-json/
