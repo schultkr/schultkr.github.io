@@ -25,7 +25,6 @@ author:
   # Biographic information
   avatar           : "Christoph_Schult.jpg" # Ensure you have an image with this name in your /images folder
   name             : "Christoph Schult"
-  pronouns         : # You can add these if you wish, e.g., "he/him"
   bio              : "Postdoctoral researcher focusing on macroeconomics, forecasting, energy markets, and climate change."
   location         : "Halle (Saale), Germany"
   employer         : "Halle Institute for Economic Research (IWH)"
@@ -34,21 +33,17 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=9tm-bzQAAAAJ&hl=en"
-  orcid            : "https://orcid.org/yourorcidurl"
-  researchgate     : # URL
-  zotero           : # URL
+  orcid            : "https://orcid.org/0009-0009-1118-2923"
+  #researchgate     : # URL
+  #zotero           : # URL
 
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://schultkr.github.io/"
 
 
   # Social media
-  linkedin         : # Username
-  twitter          : # Username for X / Twitter
+  linkedin         : "https://www.linkedin.com/in/christoph-schult-56aa83147/"
 
 
 # Publication Category - The following the list of publication categories and their headings
