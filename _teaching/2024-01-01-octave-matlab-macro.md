@@ -1,9 +1,9 @@
 ---
-title: "Einführung in Octave/Matlab für die Makroökonomik"
+title: "Introduction to Octave/Matlab for Macroeconomics"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2024-octave-matlab
-venue: "Zentrales Deutsches Doktorandenprogramm in den Wirtschaftswissenschaften"
+venue: "Central German Doctoral Program in Economics"
 date: 2024-01-01
 location: "Deutschland"
 ---
