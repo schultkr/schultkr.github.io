@@ -21,7 +21,7 @@ redirect_from:
 * **Ph.D. (Dr. rer. pol.) in Economics**, Martin Luther University Halle-Wittenberg, 2021
 * **M.Sc. Economics**, Humboldt University of Berlin, 2015
 * **B.Sc. Economics**, Martin Luther University Halle-Wittenberg, 2013
-* 
+
 ## Work Experience
 * **Postdoctoral Researcher**, Halle Institute for Economic Research (IWH), 2021–Present
 * **Doctoral Researcher**, Halle Institute for Economic Research (IWH), 2016–2021
