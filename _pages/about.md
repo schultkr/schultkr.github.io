@@ -24,3 +24,7 @@ I am currently working on several third-funded research projects focused on larg
 * **Evaluation of InvKG & STARK**: Conducting a comprehensive evaluation for the **BMWK** on policy effectiveness and structural change in German coal regions.
 
 You can find more details about my ongoing and past research in the [Projects](/projects/) section. For quick questions regarding my research or methodologies, my [chat assistant](/app-page/) is available 24/7.
+
+Contact
+======
+christoph.schult@iwh-halle.de
