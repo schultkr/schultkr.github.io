@@ -14,6 +14,9 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Ongoing Research"
+    url: /ongoing-research/
+
   - title: "Teaching"
     url: /teaching/    
                
