@@ -7,24 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the **Halle Institute for Economic Research (IWH)** in the Department of Macroeconomics. My research interests lie at the intersection of dynamic macroeconomics and applied econometrics, with a specific focus on forecasting, energy markets, and the economic implications of climate change.
+I am a Postdoctoral Researcher at the **Halle Institute for Economic Research (IWH)** in the Department of Macroeconomics. My research combines dynamic macroeconomics and applied econometrics, with a specific focus on forecasting, energy markets, and the economic implications of climate change.
 
 Research Interests
 ======
-* **Macroeconomics:** Investigating business cycle dynamics and policy transmission.
-* **Energy Economics:** Analyzing price volatility and structural shifts in global energy markets.
-* **Forecasting:** Developing robust models for macroeconomic variables and energy indicators.
-* **Climate Change:** Assessing the impact of environmental policies on economic performance.
+* **Macroeconomics:** business cycle dynamics and policy transmission.
+* **Energy Economics:** price volatility and structural shifts in global energy markets.
+* **Forecasting:** robust models for macroeconomic variables and energy indicators.
+* **Climate Change:** impact of environmental policies on economic performance.
 
 Current Projects
 ======
-I am currently working on several projects involving large-scale macroeconomic forecasting and the integration of environmental factors into traditional economic models. You can find more details about my latest research in the [Publications](/publications/) section. For quick questions, my [research assistant](/app-page/) is available 24/7.
+I am currently working on several third-funded research projects focused on large-scale macroeconomic forecasting and the integration of environmental and energy factors into economic models. My active work includes:
 
-Education & Experience
-======
-* **Postdoctoral Researcher**, Halle Institute for Economic Research (IWH)
-* **Research Focus:** Applied Macroeconomics and Econometrics
+* **Energy Investments in Vietnam**: Developing and implementing macroeconomic models for the **GIZ** to support energy sector investments in the Vietnamese context.
+* **Evaluation of InvKG & STARK**: Conducting a comprehensive evaluation for the **BMWK** on policy effectiveness and structural change in German coal regions.
 
-Contact
-======
-The best way to reach me is via email at [Christoph.Schult@iwh-halle.de](mailto:Christoph.Schult@iwh-halle.de). You can also find me on <a href="https://scholar.google.com/citations?user=9tm-bzQAAAAJ&hl=en">my Google Scholar profile</a>. or visit my office at the IWH in Halle (Saale), Germany.
+You can find more details about my ongoing and past research in the [Projects](/projects/) section. For quick questions regarding my research or methodologies, my [chat assistant](/app-page/) is available 24/7.
