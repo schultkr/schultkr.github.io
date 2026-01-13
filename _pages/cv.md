@@ -36,44 +36,6 @@ Website: <https://schultkr.github.io/>
 
 ---
 
-## Publications
-
-### Peer-Reviewed Journal Articles
-* **Regional Industrial Effects in Germany from a Potential Gas Deficit**  
-  (with Robert Lehmann), *German Economic Review*, 2024
-
-* **Transparency and Forecasting: The Impact of Conditioning Assumptions on Forecast Accuracy**  
-  (with Katja Heinisch and Carola Stepper), *Applied Economics Letters*, 2024
-
-* **The Effects of the Iberian Exception Mechanism on Wholesale Electricity Prices and Consumer Inflation: A Synthetic-Control Approach**  
-  (with Miguel Haro Ruiz and Christoph Wunder), *Applied Economics Letters*, 2024
-
-* **Power Generation and Structural Change: Quantifying Economic Effects of the Coal Phase-Out in Germany**  
-  (with Katja Heinisch and Oliver Holtemöller), *Energy Economics*, 2021
-
-* **Coal Phase-Out in Germany – Implications and Policies for Affected Regions**  
-  (with Pao-Yu Oei et al.), *Energy*, 2020
-
-* **Expectation Formation, Financial Frictions, and Forecasting Performance of DSGE Models**  
-  (with Oliver Holtemöller), *Historical Social Research*, 2019
-
----
-
-### Working Papers & Discussion Papers
-* **Climate Change Economics in Vietnam: Redefining Economic Impact**  
-  (with Christian Otto and Thomas Vogt), IWH Discussion Paper No. 15/2025. *Under review.*
-
-* **Assumption Errors and Forecast Accuracy: A Partial Linear Instrumental Variable and Double Machine Learning Approach**  
-  (with Katja Heinisch and Fabio Scaramella), IWH Discussion Paper No. 6/2025. *Under review.*
-
-* **The German Energy Crisis: A TENK-based Fiscal Policy Analysis**  
-  (with Alexandra Gutsch), IWH Discussion Paper No. 1/2025. *Under review.*
-
-* **Is Risk the Fuel of the Business Cycle? Financial Frictions and Oil Market Disturbances**,  
-  IWH Discussion Paper No. 4/2024
-
----
-
 ## Research Interests
 * Macroeconomics (DSGE models, expectation formation, financial frictions)
 * Energy and environmental economics (energy transition, coal phase-out, climate policy evaluation)
@@ -125,7 +87,7 @@ Website: <https://schultkr.github.io/>
 ## Service to the Profession
 * **Referee**, *Energy Economics*, 2019–2025  
 * **Referee**, *The Electricity Journal*, 2024  
-* **Referee**, *Electricity*, 2020  
+* **Referee**, *Economics of Transition and Institutional Change*, 2020  
 
 ---
 
