@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Chat Assistant"
-permalink: /app-page/
+title: "Chat-Assistent"
+permalink: /de/app-page/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Welcome to my interactive research assistant. You can use this tool to ask questions about my work in macroeconomics, energy markets, and climate change.
+Willkommen bei meinem interaktiven Forschungsassistenten. Sie können dieses Tool nutzen, um Fragen zu meiner Arbeit in den Bereichen Makroökonomik, Energiemärkte und Klimawandel zu stellen.
 
 <div class="responsive-container">
   <iframe 
@@ -17,6 +17,6 @@ Welcome to my interactive research assistant. You can use this tool to ask quest
     frameborder="0" 
     style="border: 1px solid #EEE; background: white; border-radius: 8px;" 
     allowfullscreen>
-    Loading...
+    Wird geladen...
   </iframe>
 </div>
