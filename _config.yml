@@ -285,7 +285,7 @@ defaults:
   # WICHTIG: Wir lassen das "path" leer oder setzen es auf den Hauptordner, 
   # aber Jekyll wendet den spezifischeren Pfad von oben (de) vorrangig an.
   - scope:
-      path: "_portfolio"
+      path: "_portfolio/en"
     values:
       layout: single
       author_profile: true
