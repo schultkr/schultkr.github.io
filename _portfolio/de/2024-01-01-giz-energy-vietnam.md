@@ -4,4 +4,5 @@ collection: portfolio
 type: "Drittmittelprojekt"
 venue: "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)"
 time_period: "2024–heute"
+lang: "de"
 ---

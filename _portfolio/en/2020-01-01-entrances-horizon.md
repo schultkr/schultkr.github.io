@@ -5,4 +5,5 @@ type: "Third-party funded project"
 venue: "European Union (Horizon 2020)"
 link: "https://entrancesproject.eu/"
 time_period: "2020–2023"
+lang: "en"
 ---
