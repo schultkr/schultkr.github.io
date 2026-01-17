@@ -245,6 +245,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _teaching (German - New)
+  - scope:
+      path: "_teaching/de"
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      lang: "de"
+      # This ensures the URL starts with /de/ even though it's a collection
+      permalink: /de/teaching/:basename/      
   # _publications
   - scope:
       path: ""
