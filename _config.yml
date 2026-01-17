@@ -271,18 +271,21 @@ defaults:
     values:
       layout: single
       lang: "de"
-      permalink: /de/publications/:basename/
-
-  # _projects (German - New)
+      permalink: /de/publications/:basename/  
+  # _portfolio (English - General)
   - scope:
       path: "_portfolio"
     values:
       layout: single
       author_profile: true
       share: true
-      lang: "de"
-      # This ensures the URL starts with /de/ even though it's a collection
-      permalink: /portfolio/:basename/      
+      lang: "en" # Sets English as the default for everything in _portfolio
+  # _portfolio (German - Specific)
+  - scope:
+      path: "_portfolio/de"
+    values:
+      lang: "de" # Overrides lang to German for this subfolder
+      permalink: /de/projects/:basename/ # Sets the localized URL path      
 
 # Sass/SCSS
 sass:
