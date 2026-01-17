@@ -280,12 +280,6 @@ defaults:
       author_profile: true
       share: true
       lang: "en" # Sets English as the default for everything in _portfolio
-  # _portfolio (German - Specific)
-  - scope:
-      path: "_portfolio/de"
-    values:
-      lang: "de" # Overrides lang to German for this subfolder
-      permalink: /de/projects/:basename/ # Sets the localized URL path      
 
 # Sass/SCSS
 sass:
