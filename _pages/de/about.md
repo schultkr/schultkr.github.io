@@ -7,7 +7,7 @@ redirect_from:
   - /de/about.html
 ---
 
-Ich bin Postdoctoral Researcher am **Leibniz-Institut für Wirtschaftsforschung Halle (IWH)** in der Abteilung Makroökonomik. In meiner Forschung verbinde ich dynamische Makroökonomik mit angewandter Ökonometrie, wobei mein besonderer Fokus auf Prognosen, Energiemärkten und den wirtschaftlichen Auswirkungen des Klimawandels liegt.
+Aktuell arbeite Ich als Postdoktorand am **Leibniz-Institut für Wirtschaftsforschung Halle (IWH)** in der Abteilung Makroökonomik. In meiner Forschung verbinde ich dynamische Makroökonomik mit angewandter Ökonometrie, wobei mein besonderer Fokus auf Prognosen, Energiemärkten und den wirtschaftlichen Auswirkungen des Klimawandels liegt.
 
 Forschungsschwerpunkte
 ======
