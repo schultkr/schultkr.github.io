@@ -80,6 +80,7 @@ Website: <https://schultkr.github.io/>
 ## Teaching
 * **Interim Professorship**, *Macroeconomics* (BA level), Leipzig University, Winter Term 2025/2026  
 * **Introduction to Octave/Matlab for Macroeconomics**, Central German Doctoral Program in Economics, 2024  
+* **DGE–CRED Practical Session: Modeling the Macroeconomic Impacts of Storms, Land Loss, and Labor Productivity Declines**, Training for ministerial employees in Hanoi, 2022
 * **Statistical Programming Languages**, Humboldt University of Berlin, 2016  
 
 ---

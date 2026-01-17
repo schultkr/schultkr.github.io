@@ -77,6 +77,7 @@ Webseite: <https://schultkr.github.io/>
 ## Lehre
 * **Vertretungsprofessur**, *Makroökonomik* (Bachelor), Universität Leipzig, Wintersemester 2025/2026  
 * **Einführung in Octave/Matlab für Makroökonomik**, Central German Doctoral Program in Economics (CGDE), 2024  
+* **DGE–CRED Praxis-Session: Modellierung der makroökonomischen Auswirkungen von Stürmen, Landverlust und sinkender Arbeitsproduktivität**, Training für Ministerialbeamte in Hanoi, 2022
 * **Statistische Programmiersprachen**, Humboldt-Universität zu Berlin, 2016  
 
 ---
