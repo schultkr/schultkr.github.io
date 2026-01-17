@@ -131,6 +131,7 @@ analytics:
 include:
   - .htaccess
   - _pages
+  - _pages/de  # Add this to be explicit
   - files
 exclude:
   - "*.sublime-project"
@@ -220,21 +221,21 @@ defaults:
       related: true
   # _pages
     # Default for all English pages
-      - scope:
-          path: "_pages"
-        values:
-          layout: single
-          author_profile: true
-          lang: "en"
+  - scope:
+      path: "_pages"
+    values:
+      layout: single
+      author_profile: true
+      lang: "en"
 
       # Overriding default for German pages
-      - scope:
-          path: "_pages/de"
-        values:
-          layout: single
-          author_profile: true
-          lang: "de"
-          permalink: /de/:basename/ # This makes _pages/de/about.md show up at /de/about/
+  - scope:
+      path: "_pages/de"
+    values:
+      layout: single
+      author_profile: true
+      lang: "de"
+      permalink: /de/:basename/ # This makes _pages/de/about.md show up at /de/about/
   # _teaching
   - scope:
       path: ""
