@@ -18,7 +18,7 @@ redirect_from:
 </div>
 
 ## Forschungsprofil
-**Postdoctoral Researcher für Makroökonomik und Energieökonomik** *(DSGE, Prognoserechnung, Evaluierung von Klimapolitik)* Leibniz-Institut für Wirtschaftsforschung Halle (IWH)  
+**Postdoktorand für Makroökonomik und Energieökonomik** *(DSGE, Prognoserechnung, Evaluierung von Klimapolitik)* Leibniz-Institut für Wirtschaftsforschung Halle (IWH)  
 E-Mail: schult.christoph@googlemail.com  
 Webseite: <https://schultkr.github.io/>
 
