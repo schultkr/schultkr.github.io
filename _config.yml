@@ -219,12 +219,22 @@ defaults:
       share: true
       related: true
   # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+    # Default for all English pages
+      - scope:
+          path: "_pages"
+        values:
+          layout: single
+          author_profile: true
+          lang: "en"
+
+      # Overriding default for German pages
+      - scope:
+          path: "_pages/de"
+        values:
+          layout: single
+          author_profile: true
+          lang: "de"
+          permalink: /de/:basename/ # This makes _pages/de/about.md show up at /de/about/
   # _teaching
   - scope:
       path: ""
@@ -243,15 +253,20 @@ defaults:
       author_profile: true
       share: true
       comments: true
-# German Pages and Collections
+  # German Publications
   - scope:
-      path: "de" # This targets everything inside your /de/ folder
+      path: "_publications/de"
     values:
       layout: single
-      author_profile: true
       lang: "de"
-      share: true
-      
+      permalink: /de/publications/:basename/
+  # German Projects
+  - scope:
+      path: "_projects/de"
+    values:
+      layout: single
+      lang: "de"
+      permalink: /de/projects/:basename/      
 # Sass/SCSS
 sass:
   sass_dir: _sass
