@@ -5,4 +5,5 @@ type: "Drittmittelprojekt"
 venue: "Umweltbundesamt (UBA)"
 time_period: "2016–2019"
 link: "https://www.umweltbundesamt.de/publikationen/klimaschutz-kohleausstieg-politische-strategien"
+lang: "de"
 ---
