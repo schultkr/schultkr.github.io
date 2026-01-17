@@ -25,10 +25,10 @@ Webseite: <https://schultkr.github.io/>
 ---
 
 ## Aktuelle Position
-* **Postdoctoral Researcher**, Leibniz-Institut für Wirtschaftsforschung Halle (IWH), seit 2021
+* **Postdoktorand**, Leibniz-Institut für Wirtschaftsforschung Halle (IWH), seit 2021
 
 ## Akademischer Werdegang
-* **Postdoctoral Researcher**, Leibniz-Institut für Wirtschaftsforschung Halle (IWH), seit 2021  
+* **Postdoktorand**, Leibniz-Institut für Wirtschaftsforschung Halle (IWH), seit 2021  
 * **Doktorand / Wissenschaftlicher Mitarbeiter**, Leibniz-Institut für Wirtschaftsforschung Halle (IWH), 2016–2021  
 
 ---
