@@ -12,7 +12,7 @@ redirect_from:
 <div class="cv-download-container">
     <h3>Download my CV</h3>
     
-    <a href="../files/CV_schult.pdf" download="Christoph_Schult_CV.pdf" class="cv-button">
+    <a href="../../files/CV_schult_german.pdf" download="Christoph_Schult_CV.pdf" class="cv-button">
         <i class="fas fa-file-download"></i> PDF
     </a>
 </div>
