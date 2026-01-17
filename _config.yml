@@ -279,7 +279,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      lang: "en" # Sets English as the default for everything in _portfolio
 
 # Sass/SCSS
 sass:
