@@ -11,7 +11,7 @@ Willkommen bei meinem interaktiven Forschungsassistenten. Sie können dieses Too
 
 <div class="responsive-container">
   <iframe 
-    src="https://script.google.com/macros/s/AKfycbziI5_XSKOJqrSL2VkkdJYKCChaa7S30QSlp48SYu3Frxs9qzgJ6_hFW8XZsp7pByH9/exec" 
+    src="https://script.google.com/macros/s/AKfycbxMdkkO6hnHd1_MLNYUp_IYUK34zLDfghfrHKe5nTcbetcLHZuKdzdWCyIyjLzzoz2V/exec" 
     width="100%" 
     height="850px" 
     frameborder="0" 
