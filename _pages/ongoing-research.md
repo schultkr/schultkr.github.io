@@ -31,18 +31,4 @@ The results indicate that contractions in economic activity following tax hikes 
 
 ---
 
-## Growth Clubs and Regional Economic Convergence in Germany  
-**Authors:** Oliver Holtemöller (MLU Halle-Wittenberg & IWH), Christoph Schult (IWH), Anna Solms (IWH, corresponding author)  
-**Status:** Work in progress
-
-**Abstract:**  
-Many regions worldwide lag behind more advanced regions. This paper studies regional growth differences within an advanced economy using a newly constructed county-level dataset for Germany that includes capital stock estimates and regional price indices. We find no evidence of unconditional convergence across counties, even when conditioning on key drivers of long-run growth such as physical and human capital accumulation.
-
-Instead, we identify five convergence clubs using endogenous clustering methods. We analyze differences in growth trajectories across these clubs and decompose growth into contributions from capital, labor, and total factor productivity. In addition, we examine the role of migration and show that net migration has particularly supported growth in more advanced regions, highlighting its importance for regional economic development.
-
-**Keywords:** Regional economic growth; convergence clubs; growth accounting  
-**JEL:** C23, O47, R11
-
----
-
 *Note: Ongoing research listed here is work in progress and not yet peer-reviewed. Items move to the Publications section once accepted or published.*
