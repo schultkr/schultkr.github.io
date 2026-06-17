@@ -3,31 +3,17 @@ title: "Ongoing Research"
 permalink: /ongoing-research/
 layout: single
 ---
+## Artificial Intelligence and Macroeconomic Dynamics: Growth, Pricing, and Distribution
 
-## Artificial Intelligence and Macroeconomic Dynamics: Growth, Pricing, and Distribution  
-**Authors:** Helen Popper (Santa Clara University), Christoph Schult (Halle Institute for Economic Research)  
+**Authors:** Helen Popper (Santa Clara University), Christoph Schult (Halle Institute for Economic Research)
 **Status:** Draft (January 2026)
 
-**Abstract:**  
+**Abstract:**
 This paper develops a tractable general equilibrium model in which artificial intelligence (AI) is produced by a monopolist that both learns by doing and uses AI recursively as an input. Explicitly modeling AI production clarifies how AI prices, adoption dynamics, long-run growth, and relative wages evolve in general equilibrium. Learning and self-use make the monopolist’s pricing of AI forward-looking and endogenous, generating two distinct adoption regimes—learning-first and scale-first—that shape macroeconomic and distributional outcomes.
 
 For analytical clarity, the paper characterizes a generalized balanced growth path under a Cobb–Douglas benchmark. This benchmark delivers a closed-form condition for stable, non-explosive growth and implies that AI output grows faster than final output, the relative price of AI falls persistently, and real wages rise with overall output.
 
 Extending the model to CES technologies, the paper derives a closed-form effective demand elasticity for AI that combines input substitution in production with product-market substitution across differentiated varieties. These forces jointly determine AI markups and price dynamics. Simulations show that complementarity in final-goods inputs generates a learning-first, capital-light adoption regime, while substitutability leads to scale-first adoption and attenuates the two-phase pattern. On the distribution side, the wage premium for specialized labor is lowest when final-goods inputs are complements and rises with substitutability; greater substitutability in AI production amplifies these effects.
-
----
-
-## Transition Dynamics in Heterogeneous Agent Models and the Distributional Consequences of Taxation  
-**Authors:** Alexandra Gutsch (Martin Luther University Halle-Wittenberg & Halle Institute for Economic Research), Christoph Schult (Halle Institute for Economic Research)  
-**Status:** Work in progress
-
-**Abstract:**  
-This paper studies the distributional consequences of tax policy at the wealth decile level using a heterogeneous-agent model and a ten-agent representative-agent model. While both frameworks generate broadly comparable aggregate responses to tax shocks, the heterogeneous-agent model produces irregular and state-dependent impulse responses at the decile level. These dynamics complicate the interpretation of distributional effects of fiscal interventions such as increases in labor or capital taxation.
-
-The results indicate that contractions in economic activity following tax hikes are primarily driven by higher-wealth deciles. At the same time, theoretically implied inter-decile transition dynamics stabilize consumption among low- and middle-wealth deciles, reflecting downward mobility from higher wealth and labor-income groups.
-
-**Keywords:** Heterogeneous Agents; Krusell–Smith Model; Incomplete Markets; Computational Economics  
-**JEL:** C63, D31, D52, D58, E21
 
 ---
 
