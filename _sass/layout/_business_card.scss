@@ -1,0 +1,87 @@
+/* ==========================================================================
+   DIGITAL BUSINESS CARD
+   ========================================================================== */
+
+.business-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 420px;
+  margin: 0 auto;
+  padding: 1.5em 1em 2.5em;
+  text-align: center;
+
+  &__avatar {
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 1em;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  }
+
+  &__name {
+    margin: 0 0 0.15em;
+  }
+
+  &__title,
+  &__org,
+  &__location {
+    margin: 0.1em 0;
+    color: var(--global-text-color-light);
+  }
+
+  &__save {
+    display: block;
+    width: 100%;
+    min-height: 44px;
+    margin: 1.5em 0 1em;
+    font-size: $type-size-5;
+  }
+
+  &__links {
+    list-style: none;
+    width: 100%;
+    margin: 0 0 2em;
+    padding: 0;
+
+    li {
+      margin-bottom: 0.6em;
+    }
+
+    a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.6em;
+      min-height: 44px;
+      padding: 0.6em 1em;
+      border: 1px solid var(--global-border-color);
+      border-radius: $border-radius;
+      color: var(--global-text-color) !important;
+      text-decoration: none;
+      transition: background-color 0.2s ease;
+
+      &:hover {
+        background-color: var(--global-code-background-color);
+      }
+    }
+  }
+
+  &__qr {
+    img {
+      width: 200px;
+      height: 200px;
+      padding: 0.75em;
+      background-color: #fff;
+      border-radius: $border-radius;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    }
+
+    p {
+      margin-top: 0.75em;
+      font-size: $type-size-6;
+      color: var(--global-text-color-light);
+    }
+  }
+}

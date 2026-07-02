@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import qrcode; print\\('ok'\\)\")",
+      "Bash(python -c \"import qrcode; print\\('ok'\\)\")",
+      "PowerShell(Get-Command python, python3, node, npm -ErrorAction SilentlyContinue)",
+      "Bash(npx --yes qrcode --help)",
+      "Bash(npx --yes qrcode -e Q -t png -w 600 -q 2 -o images/card-qr.png \"https://schultkr.github.io/card/\")",
+      "Bash(docker --version)",
+      "Bash(docker compose *)",
+      "PowerShell(Get-Process \"Docker Desktop\" -ErrorAction SilentlyContinue)",
+      "PowerShell(Get-Service com.docker.service -ErrorAction SilentlyContinue)",
+      "PowerShell(Start-Process \"C:\\\\Program Files\\\\Docker\\\\Docker\\\\Docker Desktop.exe\")"
+    ]
+  }
+}

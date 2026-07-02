@@ -28,3 +28,5 @@ You can find more details about my ongoing and past research in the [Projects](/
 Contact
 ======
 [christoph.schult@iwh-halle.de](mailto:christoph.schult@iwh-halle.de)
+
+[📇 Digital business card](/card/)
